@@ -1,1 +1,1 @@
-# onenote-navigation-ahk-fix
+# OneNote Horizontal Scroll & Panning (Windows 11, AutoHotkey)
