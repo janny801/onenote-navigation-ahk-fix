@@ -8,3 +8,6 @@ This AutoHotkey script brings back two essential features that are missing in On
 - **Middle Mouse Button drag** for smooth panning
 
 The script only activates when OneNote is the active window. It’s lightweight, non-intrusive, and includes optional visual feedback (cursor and origin marker). Setup is quick, and you can optionally run it at startup.
+
+## Features
+
