@@ -16,3 +16,10 @@ The script only activates when OneNote is the active window. It’s lightweight,
 - **Visual feedback**: directional pan cursor and origin marker
 - Only affects OneNote (won’t interfere with other apps)
 - Written in **AutoHotkey v1**
+
+## Getting Started
+
+### 1. Install AutoHotkey
+
+Go to: [https://www.autohotkey.com/](https://www.autohotkey.com/)  
+Download and install **AutoHotkey v1**
