@@ -30,3 +30,8 @@ Download and install **AutoHotkey v1**
 - Paste the script (see below)
 - Save the file with a `.ahk` extension, e.g., `onenote_scroll.ahk`
 
+### 3. Run the Script
+
+- Right-click the `.ahk` file
+- Select **Show more options**
+- Click **Run Script**
