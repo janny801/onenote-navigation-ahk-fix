@@ -23,3 +23,10 @@ The script only activates when OneNote is the active window. It’s lightweight,
 
 Go to: [https://www.autohotkey.com/](https://www.autohotkey.com/)  
 Download and install **AutoHotkey v1**
+
+### 2. Create the Script
+
+- Open Notepad or any text editor
+- Paste the script (see below)
+- Save the file with a `.ahk` extension, e.g., `onenote_scroll.ahk`
+
