@@ -35,3 +35,8 @@ Download and install **AutoHotkey v1**
 - Right-click the `.ahk` file
 - Select **Show more options**
 - Click **Run Script**
+
+You should see a green AutoHotkey icon in the system tray. Now:
+
+- Shift + Scroll = horizontal scrolling
+- Middle click and drag = panning mode
