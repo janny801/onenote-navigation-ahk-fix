@@ -40,3 +40,5 @@ You should see a green AutoHotkey icon in the system tray. Now:
 
 - Shift + Scroll = horizontal scrolling
 - Middle click and drag = panning mode
+
+![System tray showing the AutoHotkey script running](images/trayDisplayW11.png)
