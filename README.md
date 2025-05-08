@@ -41,4 +41,4 @@ You should see a green AutoHotkey icon in the system tray. Now:
 - Shift + Scroll = horizontal scrolling
 - Middle click and drag = panning mode
 
-![System tray showing the AutoHotkey script running](images/trayDisplayW11.png)
+![AutoHotkey script running in system tray on Windows 11](images/trayDisplayW11.png)
