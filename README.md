@@ -54,3 +54,8 @@ You have two options:
 
 1. Press `Win + R`, type `shell:startup`, hit Enter  
 2. Copy your `.ahk` file into this folder
+
+### Option 2: Compile to EXE and Add to Startup
+
+1. Right-click the `.ahk` file → Compile Script (creates `.exe`)
+2. Move the `.exe` into `shell:startup`
