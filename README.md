@@ -47,3 +47,10 @@ Now:
 - Middle click and drag = panning mode
 
 ## Auto-run on Windows Startup (optional)
+
+You have two options:
+
+### Option 1: Add to Startup Folder
+
+1. Press `Win + R`, type `shell:startup`, hit Enter  
+2. Copy your `.ahk` file into this folder
