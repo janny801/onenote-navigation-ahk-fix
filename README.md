@@ -45,3 +45,5 @@ You should see a green AutoHotkey icon in the system tray (see image below)
 Now:
 - Shift + Scroll = horizontal scrolling
 - Middle click and drag = panning mode
+
+## Auto-run on Windows Startup (optional)
