@@ -60,4 +60,5 @@ You have two options:
 1. Right-click the `.ahk` file → Compile Script (creates `.exe`)
 2. Move the `.exe` into `shell:startup`
 
-I'm new to AutoHotkey and made this script quickly because I was used to the macOS OneNote app, which allows horizontal scrolling and panning by default. 
+I'm new to AutoHotkey and made this script quickly because I was used to the macOS OneNote app, which allows horizontal scrolling and panning by default. For some reason these features are missing on the Windows 11 OneNote Desktop App. 
+
