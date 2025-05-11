@@ -62,7 +62,28 @@ You have two options:
 
 I'm new to AutoHotkey and made this script quickly because I was used to the macOS OneNote app, which allows horizontal scrolling and panning by default. For some reason these features are missing on the Windows 11 OneNote Desktop App. 
 
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.  
+2. Create a new branch:  
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes and commit with clear messages:  
+   ```bash
+   git commit -m "Add feature X"
+   ```
+4. Push your branch to GitHub:  
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Open a Pull Request describing your changes. 
+
+
 ## Contact
 
 For questions or feedback, reach out via email:
 - **Email**: jred8069@gmail.com
+
