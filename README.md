@@ -19,14 +19,18 @@ The script only activates when OneNote is the active window. It’s lightweight,
 
 ### Features Demo
 
-- Shift + Scroll moves the page left and right  
-  <div align="center">
-    <img src="images/shiftscroll_demo.gif" alt="Shift Scroll Demo">
-  </div>
-- Middle mouse button lets you click and drag to move around  
-  <div align="center">
-    <img src="images/crosshair_demo.gif" alt="Panning Demo">
-  </div>
+## Features Demo
+
+<div align="center">
+  <p><strong>Shift + Scroll</strong> moves the page left and right</p>
+  <img src="images/shiftscroll_demo.gif" alt="Shift Scroll Demo">
+</div>
+<br>
+<div align="center">
+  <p><strong>Middle mouse button</strong> lets you click and drag to move around</p>
+  <img src="images/crosshair_demo.gif" alt="Panning Demo">
+</div>
+
 
 ## Getting Started
 
