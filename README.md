@@ -11,8 +11,7 @@ The script only activates when OneNote is the active window. It’s lightweight,
 
 ## Features
 
-- Horizontal scrolling with **Shift + Scroll Wheel**
-  ![Shift Scroll Demo](images/shiftscroll demo.gif)
+- Horizontal scrolling with **Shift + Scroll Wheel**  
 - Click-and-drag navigation with the **Middle Mouse Button**
 - **Visual feedback**: directional pan cursor and origin marker
 - Only affects OneNote (won’t interfere with other apps)
