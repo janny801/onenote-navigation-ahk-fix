@@ -17,8 +17,6 @@ The script only activates when OneNote is the active window. It’s lightweight,
 - Only affects OneNote (won’t interfere with other apps)
 - Written in **AutoHotkey v1**
 
-### Features Demo
-
 ## Features Demo
 
 <div align="center">
