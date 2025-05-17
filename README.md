@@ -20,7 +20,7 @@ The script only activates when OneNote is the active window. It’s lightweight,
 ### Features Demo
 
 <div align="center">
-  <p style="font-size: 1.5em; text-decoration: underline;"><strong>Shift + Scroll</strong> moves the page left and right</p>
+  <h3><u><strong>Shift + Scroll</strong> moves the page left and right</u></h3>
   <img src="images/shiftscroll_demo.gif" alt="Shift Scroll Demo">
 </div>
 
@@ -31,8 +31,9 @@ The script only activates when OneNote is the active window. It’s lightweight,
 - Helps navigate wide layouts, tables, or images in OneNote
 
 <br>
+
 <div align="center">
-  <p><strong>Middle mouse button</strong> lets you click and drag to move around</p>
+  <h3><u><strong>Middle mouse button</strong> lets you click and drag to move around</u></h3>
   <img src="images/crosshair_demo.gif" alt="Panning Demo">
 </div>
 
