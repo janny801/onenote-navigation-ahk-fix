@@ -41,12 +41,16 @@ The script only activates when OneNote is the active window. It’s lightweight,
   <img src="images/crosshair_demo.gif" alt="Panning Demo">
 </div>
 
-**How it works:**
-- Press and hold the **middle mouse button**
-- A small cross appears at the click point (this is the origin)
-- Move the mouse in any direction to **pan the canvas**
-- The mouse cursor updates to show **scroll direction**
-- Release the middle button to stop panning
+<div align="center">
+  <p><strong>How it works:</strong></p>
+</div>
+<ul>
+  <li>Press and hold the <strong>middle mouse button</strong></li>
+  <li>A small cross appears at the click point (this is the origin)</li>
+  <li>Move the mouse in any direction to <strong>pan the canvas</strong></li>
+  <li>The mouse cursor updates to show <strong>scroll direction</strong></li>
+  <li>Release the middle button to stop panning</li>
+</ul>
 
 ## Getting Started
 
