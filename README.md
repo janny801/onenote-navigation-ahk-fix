@@ -20,7 +20,7 @@ The script only activates when OneNote is the active window. It’s lightweight,
 ### Features Demo
 
 <div align="center">
-  <p><strong>Shift + Scroll</strong> moves the page left and right</p>
+  <p style="font-size: 1.5em; text-decoration: underline;"><strong>Shift + Scroll</strong> moves the page left and right</p>
   <img src="images/shiftscroll_demo.gif" alt="Shift Scroll Demo">
 </div>
 
