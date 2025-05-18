@@ -18,7 +18,7 @@ The script only activates when OneNote is the active window. It’s lightweight,
 - Written in **AutoHotkey v1**
 
 <div align="center">
-  <h3><u>Features Demo</u></h3>
+  <h3><u><code>Features Demo</code></u></h3>
 </div>
 
 <div align="center">
