@@ -17,7 +17,9 @@ The script only activates when OneNote is the active window. It’s lightweight,
 - Only affects OneNote (won’t interfere with other apps)
 - Written in **AutoHotkey v1**
 
-### Features Demo
+<div align="center">
+  <h3><u><code>Features Demo</code></u></h3>
+</div>
 
 <div align="center">
   <h3><u><strong>Shift + Scroll</strong> moves the page left and right</u></h3>
