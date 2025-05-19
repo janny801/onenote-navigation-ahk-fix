@@ -54,9 +54,14 @@ The script only activates when OneNote is the active window. It’s lightweight,
   <li>Release the middle button to stop panning</li>
 </ul>
 
-## Adjustability
+<div align="center">
+  <h3><u><strong>Adjustability</strong></u></h3>
+</div>
 
-You can fine-tune how fast the page scrolls while holding the **middle mouse button**:
+<ul>
+  <li>Scroll speed increases the farther you move the mouse from the original click point</li>
+  <li>You can customize this by editing the scroll thresholds in the script:</li>
+</ul>
 
 ## Getting Started
 
