@@ -55,9 +55,8 @@ The script only activates when OneNote is the active window. It’s lightweight,
 </ul>
 
 <div align="center">
-  <h3><u><strong>Adjustability</strong></u></h3>
+  <p><strong>Adjustability</strong></p>
 </div>
-
 <ul>
   <li>Scroll speed increases the farther you move the mouse from the original click point</li>
   <li>You can customize this by editing the scroll thresholds in the script:</li>
