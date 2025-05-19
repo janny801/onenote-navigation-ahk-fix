@@ -54,6 +54,10 @@ The script only activates when OneNote is the active window. It’s lightweight,
   <li>Release the middle button to stop panning</li>
 </ul>
 
+## Adjustability
+
+You can fine-tune how fast the page scrolls while holding the **middle mouse button**:
+
 ## Getting Started
 
 ### 1. Install AutoHotkey
