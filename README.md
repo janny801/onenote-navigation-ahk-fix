@@ -65,8 +65,14 @@ The script only activates when OneNote is the active window. It’s lightweight,
 ```ahk
 if (xDistance < 250)
     xScrollAmount := 1
-else if (xDistance >= 250)
+else if (xDistance < 500)
     xScrollAmount := 2
+else if (xDistance < 750)
+    xScrollAmount := 3
+else if (xDistance < 1000)
+    xScrollAmount := 4
+else
+    xScrollAmount := 5
 ```
 
 <ul>
