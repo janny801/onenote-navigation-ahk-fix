@@ -89,10 +89,10 @@ else
 ```
 
 <ul>
-  <li>These thresholds determine how many scroll steps are sent based on how far the mouse moves from the original click point (the location where you first pressed the middle mouse button)</li>
+  <li>These thresholds (<code>xScrollAmount</code> / <code>yScrollAmount</code>) determine how many scroll steps are sent based on how far the mouse moves from the original click point (the location where you first pressed the middle mouse button)</li>
   <li>The farther you move the cursor from that origin point, the faster the page scrolls</li>
-  <li>You can also adjust the <code>scrollStep</code> value (set to <code>10</code> in this script) to change how soon scrolling starts after movement</li>
-  <li>This lets you make panning more or less sensitive depending on your preference</li>
+  <li>You can customize these thresholds to control how scroll speed scales with distance</li>
+  <li>The <code>xScrollAmount</code> / <code>yScrollAmount</code> values define how much the page scrolls depending on how far the cursor moves from the original click point</li>
 </ul>
 
 ## Getting Started
