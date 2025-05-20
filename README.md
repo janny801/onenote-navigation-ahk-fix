@@ -63,6 +63,7 @@ The script only activates when OneNote is the active window. It’s lightweight,
 </ul>
 
 ```ahk
+; Horizontal (X axis)
 if (xDistance < 250)
     xScrollAmount := 1
 else if (xDistance < 500)
@@ -73,11 +74,24 @@ else if (xDistance < 1000)
     xScrollAmount := 4
 else
     xScrollAmount := 5
+
+; Vertical (Y axis)
+if (yDistance < 250)
+    yScrollAmount := 1
+else if (yDistance < 500)
+    yScrollAmount := 2
+else if (yDistance < 750)
+    yScrollAmount := 3
+else if (yDistance < 1000)
+    yScrollAmount := 4
+else
+    yScrollAmount := 5
 ```
 
 <ul>
-  <li>These thresholds determine how many scroll steps are sent based on the distance moved</li>
-  <li>You can also adjust the <code>scrollStep</code> value (default <code>10</code>) to change how soon scrolling starts after movement</li>
+  <li>These thresholds determine how many scroll steps are sent based on how far the mouse moves from the original click point (the location where you first pressed the middle mouse button)</li>
+  <li>The farther you move the cursor from that origin point, the faster the page scrolls</li>
+  <li>You can also adjust the <code>scrollStep</code> value (set to <code>10</code> in this script) to change how soon scrolling starts after movement</li>
   <li>This lets you make panning more or less sensitive depending on your preference</li>
 </ul>
 
