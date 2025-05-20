@@ -69,6 +69,12 @@ else if (xDistance >= 250)
     xScrollAmount := 2
 ```
 
+<ul>
+  <li>These thresholds determine how many scroll steps are sent based on the distance moved</li>
+  <li>You can also adjust the <code>scrollStep</code> value (default <code>10</code>) to change how soon scrolling starts after movement</li>
+  <li>This lets you make panning more or less sensitive depending on your preference</li>
+</ul>
+
 ## Getting Started
 
 ### 1. Install AutoHotkey
