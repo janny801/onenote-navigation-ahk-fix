@@ -62,6 +62,13 @@ The script only activates when OneNote is the active window. It’s lightweight,
   <li>You can customize this by editing the scroll thresholds in the script:</li>
 </ul>
 
+```ahk
+if (xDistance < 250)
+    xScrollAmount := 1
+else if (xDistance >= 250)
+    xScrollAmount := 2
+```
+
 ## Getting Started
 
 ### 1. Install AutoHotkey
