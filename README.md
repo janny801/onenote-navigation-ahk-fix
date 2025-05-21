@@ -50,6 +50,18 @@ The script only activates when OneNote is the active window. It’s lightweight,
 +WheelUp::Send {WheelLeft}
 +WheelDown::Send {WheelRight}
 ```
+<ul> <li>With this adjustable version:</li> </ul>
+
++WheelUp::
+    Loop 3 ; Increase or decrease this number to control scroll speed (left)
+        Send {WheelLeft}
+return
+
++WheelDown::
+    Loop 3 ; Increase or decrease this number to control scroll speed (right)
+        Send {WheelRight}
+return
+```
 
 <br>
 
