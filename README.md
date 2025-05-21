@@ -36,6 +36,21 @@ The script only activates when OneNote is the active window. It’s lightweight,
   <li>Helps navigate wide layouts, tables, or images in OneNote</li>
 </ul>
 
+<div align="center">
+  <p><strong>Adjustability</strong></p>
+</div>
+
+<ul>
+  <li>By default, Shift + Scroll sends a single horizontal scroll event</li>
+  <li>You can increase how far the page scrolls by modifying the number of scroll steps sent</li>
+  <li>Replace this section in the script:</li>
+</ul>
+
+```ahk
++WheelUp::Send {WheelLeft}
++WheelDown::Send {WheelRight}
+```
+
 <br>
 
 <div align="center">
