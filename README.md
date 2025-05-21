@@ -64,6 +64,13 @@ return
 return
 ```
 
+<ul>
+  <li><code>Loop 3</code> means it scrolls 3 steps per scroll tick</li>
+  <li>To scroll faster: increase the number</li>
+  <li>To scroll slower: decrease the number (minimum is 1)</li>
+  <li>This makes it easier to navigate wide pages, images, or tables</li>
+</ul>
+
 <br>
 
 <div align="center">
