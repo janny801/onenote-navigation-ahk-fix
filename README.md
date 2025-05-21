@@ -52,6 +52,7 @@ The script only activates when OneNote is the active window. It’s lightweight,
 ```
 <ul> <li>With this adjustable version:</li> </ul>
 
+```ahk
 +WheelUp::
     Loop 3 ; Increase or decrease this number to control scroll speed (left)
         Send {WheelLeft}
