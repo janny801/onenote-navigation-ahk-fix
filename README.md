@@ -2,7 +2,9 @@
 
 **Enhances OneNote navigation on Windows with horizontal scrolling and middle-click panning.**
 
-This AutoHotkey script brings back two essential features that are missing in OneNote Desktop App for Windows but standard in other applications:
+> ⚠️ This script is designed for the **OneNote Desktop App** (Microsoft Store version) on **Windows 11**.
+
+This AutoHotkey script brings back two essential features...
 
 - **Shift + Scroll Wheel** for horizontal scrolling  
 - **Middle Mouse Button drag** for smooth panning
