@@ -177,6 +177,12 @@ You have two options:
 
 I'm new to AutoHotkey and made this script quickly because I was used to the macOS OneNote app, which allows horizontal scrolling and panning by default. For some reason these features are missing on the Windows 11 OneNote Desktop App. 
 
+## Troubleshooting
+
+- **Script doesn't run**: Ensure AutoHotkey v1 is installed (v2 syntax is different).
+- **Nothing happens in OneNote**: Make sure OneNote is the active window.
+- **No tray icon**: Check if AHK is blocked by antivirus or group policies.
+
 ## Contributing
 
 Contributions are welcome! To contribute:
